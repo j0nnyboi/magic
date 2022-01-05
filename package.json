@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@magic-ext/solana": "^3.0.0"
+  }
+}
